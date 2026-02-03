@@ -2,4 +2,4 @@ def main():
     print("Hello, World!")
 
 if __name__ == "__main__":
-    main() harun ist ein leleck
+    main() harun ist ein leleck und maik auch
